@@ -14,6 +14,5 @@ Runs on mobile,windows ... anything with a browser. No installation necessary
 
 
 Acknowledgements:
-mostly a wrapping of a javascript from Chris Veness see here https://github.com/xk/nodeSnippets/blob/master/AES%20baagoe/veness.es
-to avoid using a server.
-See also http://www.movable-type.co.uk/scripts/aes.html
+mostly a wrapping of a javascript from [Chris Veness](https://github.com/xk/nodeSnippets/blob/master/AES%20baagoe/veness.es)
+for sharing. 
